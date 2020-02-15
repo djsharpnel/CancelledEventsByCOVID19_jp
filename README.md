@@ -1,5 +1,5 @@
 # CancelledEventsByCOVID19_jp
-## Events cancelled or postponed due to COVID19 in Japan
+## Events cancelled or postponed due to COVID19 infection in Japan
 ## 新型コロナウイルスの影響で開催中止または延期になったイベント一覧
 
 |日付|イベント名|公式サイト|
