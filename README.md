@@ -28,12 +28,13 @@
 |2/16|千葉|ちば市国際ふれあいフェスティバル2020|https://www.city.chiba.jp/somu/shichokoshitsu/kokusai/2020_furefes_cancelled.html
 |2/16|千葉|保護猫譲渡会|https://ameblo.jp/nyann2fosters/entry-12573493947.html
 |2/16|東京|Tokyo BISH Bash #01|https://tokyo-bish-bash.connpass.com/event/165094/
-|2/16|和歌山|西川ヘレン講演会|
+|2/16|和歌山|西川ヘレン講演会|https://hardening-mp.connpass.com/event/165077/
 |2/17-18|静岡|聖隷国際研究コンファレンス＆シンポジウム2020|https://www.seirei.ac.jp/news/detail.php?CN=289482|
 |2/17|大阪|第72回 西中島StudyGroup【もくもく会 】→オンラインのみ|https://nishinakajima.connpass.com/event/167656/|
 |2/17|東京|Kong Meetup Tokyo|https://www.xlsoft.com/jp/products/seminar/kong_meetup_tokyo.html|
 |2/17|静岡|N.リアルライブツアーin浜松|https://www.instagram.com/p/B8lqNs-n60V/?igshid=1kklx55cxwszf
 |2/17|愛知|出直し看護師塾名古屋セミナー|https://raptorproject.jp/info/348
+|2/17|東京・大阪|Hardening 2020 BO 振り返り会＠大阪・東京・Youtube|
 |2/18|東京|DESIGNの、~ Fenrir Designers Conference #3 |https://www.fenrir-inc.com/jp/news/2020/01/29/event_202001/
 |2/18|東京・大阪|Maneki & Neco Meetup (サイボウズ)|https://cybozu.connpass.com/event/162304/|
 |2/19|大阪|よしもとナイトフライト笑わナイト|https://www.osaka-airport.co.jp/notices/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%B8%AD%E6%AD%A2|
